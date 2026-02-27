@@ -1,0 +1,72 @@
+[
+  {
+    "id": "22d7a505c6bd3063",
+    "username": "102",
+    "password": "102",
+    "expiresAt": "2026-03-01",
+    "allowOffline": false
+  },
+  {
+    "id": "00",
+    "username": "10",
+    "password": "10",
+    "expiresAt": "2026-03-01",
+    "allowOffline": false
+  },
+  {
+    "id": "99",
+    "username": "10",
+    "password": "10",
+    "expiresAt": "2026-03-01",
+    "allowOffline": false
+  },
+  {
+    "id": "4ab24d13da8f4cb8",
+    "username": "10",
+    "password": "10",
+    "expiresAt": "2026-02-26",
+    "allowOffline": false
+  },
+  {
+    "id": "b4ff62807c083078",
+    "username": "10",
+    "password": "10",
+    "expiresAt": "2026-02-26",
+    "allowOffline": false
+  },
+  {
+    "id": "0000",
+    "username": "GFX9.1",
+    "password": "ROYAL",
+    "expiresAt": "2026-02-23",
+    "allowOffline": false
+  },
+  {
+    "id": "0000",
+    "username": "GFX9.1",
+    "password": "ROYAL",
+    "expiresAt": "2026-02-23",
+    "allowOffline": false
+  },
+  {
+    "id": "0000",
+    "username": "GFX9.1",
+    "password": "ROYAL",
+    "expiresAt": "2026-02-23",
+    "allowOffline": false
+  },
+  {
+    "id": "0000",
+    "username": "GFX9.1",
+    "password": "ROYAL",
+    "expiresAt": "2026-02-23",
+    "allowOffline": false
+  },
+  {
+    "id": "0000",
+    "username": "GFX9.1",
+    "password": "ROYAL",
+    "expiresAt": "2026-02-23",
+    "allowOffline": false
+  }
+]
